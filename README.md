@@ -10,7 +10,15 @@ Tool used for analysis
 
 Packages
 
-• NumPy • Pandas •  Matplotlib •  Seaborn • scikit-learn
+• NumPy 
+
+• Pandas 
+
+•  Matplotlib 
+
+•  Seaborn 
+
+• scikit-learn
 
 Data:
 https://www.kaggle.com/datasets/niteshyadav3103/concrete-compressive-strength
