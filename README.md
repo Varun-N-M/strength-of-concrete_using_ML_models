@@ -16,6 +16,7 @@ Data:
 https://www.kaggle.com/datasets/niteshyadav3103/concrete-compressive-strength
 
 Analysis:
+
 •	We have 1030 rows
 
 •	We have 9 columns
