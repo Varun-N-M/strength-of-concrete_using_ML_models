@@ -17,8 +17,11 @@ https://www.kaggle.com/datasets/niteshyadav3103/concrete-compressive-strength
 
 Analysis:
 •	We have 1030 rows
+
 •	We have 9 columns
+
 •	There is no null values
+
 •	All values are in the form of continuous data
 
 Further process of 
