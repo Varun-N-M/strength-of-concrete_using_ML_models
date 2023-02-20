@@ -26,11 +26,19 @@ Analysis:
 •	All values are in the form of continuous data
 
 Further process of 
+
 • Exploratory data analysis
+
 • Outliers treatment
+
 • Relation study
+
 • Multi-collinearity-check
+
 • Feature Engineering
+
 • Model building
+
 • Hyperparameter tuning
+
 are explained in construction_data_report.
